@@ -8,6 +8,12 @@ fr:
   languageName: Français
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            pro@sachaandre.com
+          value: >-
+            mailto:pro@sachaandre.com
 
   permalinks:
     pages_categories: /:slug/
