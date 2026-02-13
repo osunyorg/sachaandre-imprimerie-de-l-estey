@@ -2,10 +2,12 @@
 title: Menu principal
 items:
 - title: À propos
+  slug: a-propos
   target: "/a-propos/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/a-propos"
   file: content/fr/pages/a-propos/_index.html
 
